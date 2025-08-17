@@ -2,7 +2,10 @@
 
 A FastAPI service that provides REST endpoints for Indian bank and branch data.
 
+**Deployed On**: [https://indian-banks-api-ehml.onrender.com/docs#/](https://indian-banks-api-ehml.onrender.com/docs#/)
+
 **GitHub Repository**: [https://github.com/jainyash0614/indian-banks-api.git](https://github.com/jainyash0614/indian-banks-api.git)
+
 
 ## What This Does
 
